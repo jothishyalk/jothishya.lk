@@ -1,8 +1,10 @@
 ## This domain name is for sale
 
-You can use the [editor on GitHub](https://github.com/jothishyalk/jothishya.lk/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Please contact [jothishyalk[at]gmail[dot]com](mailto:jothishyalk@gmail.com) for more information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## මෙම ඩොමේන් නාමය විකිනීමට තිබේ 
+
+කරුනාකර [jothishyalk[at]gmail[dot]com](mailto:jothishyalk@gmail.com) ඊමේල් ලිපිනයෙන් වැඩි විස්තර දැනගන්න. 
 
 ### Markdown
 
